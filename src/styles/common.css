@@ -110,7 +110,7 @@ span.item-count {
 
 .two-column-layout {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 8fr 4fr;
   gap: 20px;
 }
 .box-common {
