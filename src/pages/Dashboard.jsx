@@ -28,7 +28,7 @@ export default function Dashboard() {
     <>
       <div className="flex justify-between items-center gap-4">
         <div className="bg-gray-200 p-4 rounded">
-          <h3 className="common-hed">Dashboard - Region wise </h3>
+          <h3 className="common-hed">Dashboard - Region wise-new branch </h3>
         </div>
         <CommonButton label="Create New Report" variant="primary" className="comon_btn" />
       </div>
