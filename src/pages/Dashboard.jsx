@@ -53,7 +53,7 @@ export default function Dashboard() {
             <div className="box-common">
               <div className="barchart common-card-pad">
                 <div className="two-column-layout">
-                <h5 className="common-subhed">Total VMS Alerts Today</h5>
+                <h5 className="common-subhed">Total VMS Alerts Todayttt</h5>
                 <h4 className="count-total">Total <span>69</span></h4>
                 </div>
                 <div className="chart-bars">
